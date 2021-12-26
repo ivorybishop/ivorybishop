@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ivorybishop
-- 👀 I’m interested in just about everything, which is costly sometimes and is the way most hobbies hurt your feelings.
-- 🌱 I’m currently learning python, javascript, html, css, etc.
+- 👋 @ivorybishop
+- 👀 I’m interested in just about everything, which is costly sometimes.
+- 🌱 I’m currently learning git, github, github desktop, python, javascript, html, css, etc.
 - 💞️ I’m looking to collaborate once I learn how to actually do something useful and get some experience under my belt..err, fingertips.
 - 📫 How to reach me: just message me here. I keep a browser tab open most days.
 
